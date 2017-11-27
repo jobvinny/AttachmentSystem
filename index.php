@@ -308,7 +308,7 @@ if (isset($_SESSION['login_user'])) {
 <!--end of student-->
 <!--footer-->
 <div class="row">
-    <div class="footer footwell java3">
+    <div class="footer footwell1 java3">
         <div class="col-md-12 toptechdark">
             <br/>
             <h2 class="text-success text-center well well-sm">GET STARTED</h2>
@@ -381,6 +381,7 @@ if (isset($_SESSION['login_user'])) {
                 echo "<p class='text-center'>All Rights Reserved 2017</p>";
                 ?>
                 <hr/>
+                <p class="text-muted text-center">Developed By <a href="http://tecksolke.com/">TecksolKE</a></p>
             </div>
             <div class="col-md-3"></div>
         </div>

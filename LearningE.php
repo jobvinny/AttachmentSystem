@@ -33,30 +33,28 @@ include('sessionstud.php');
 
 <body class="back3">
 <div class="container-fluid toptechdark">
-    <div class="row">
-        <div class="col-md-12 well" id="well2">
-            <h3 class="text-center"><span class="glyphicon glyphicon-dashboard"></span>&nbsp;<b><i>S</i></b>A<b><i>S</i></b>
-                <b><i>S</i></b>tudent <b><i>D</i></b>ashBoard</h3>
-        </div>
-        <div class="col-md-12">
-            <nav class="navbar navbar">
-                <div class="container">
-                    <div class="navbar-header">
-                        <a class="navbar-brand" href="StudentSection.php"><span class="glyphicon glyphicon-home"></span>&nbsp;Student
-                            Operations</a>
-                    </div>
-                    <ul class="nav navbar-nav" id="nav1">
+    <div class="row panelnav">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid dark">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    </button>
+                    <a class="navbar-brand" href="StudentSection.php"><img src="img/BrandingLogo.png"
+                                                                           class="img-responsive"
+                                                                           id="logoimage"></a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-right">
                         <li><a href="StudentDetails.php">Profile</a></li>
                         <li><a href="LearningE.php">Learning</a></li>
                         <li><a href="Hub.php">Hub Store</a></li>
-                    </ul>
-                    <ul class="nav navbar-nav pull-right" id="nav1">
-                        <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span>&nbsp;Logout</a></li>
+                        <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
                     </ul>
                 </div>
-            </nav>
-        </div>
+            </div>
+        </nav>
     </div>
+
     <div class="row">
         <div class="col-md-12">
             <hr/>

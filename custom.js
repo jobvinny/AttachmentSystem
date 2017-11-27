@@ -217,6 +217,35 @@ $(document).ready(function () {
         }
     });
 });
+function loadresults() {
+    $(document).ready(function () {
+            var txt = $(this).val();
+            if (txt != '') {
+                $('#result').html('');
+                $.ajax({
+                    url: "fetch.php",
+                    method: "post",
+                    data: {search: txt},
+                    dataType: "text",
+                    success: function (data) {
+                        $('#result').html(data);
+                    }
+                });
+            }
+            else {
+                $('#result').html('');
+                $.ajax({
+                    url: "fetch.php",
+                    method: "post",
+                    data: {search: txt},
+                    dataType: "text",
+                    success: function (data) {
+                        $('#result').html(data);
+                    }
+                });
+            }
+        });
+}
 /*start code for count down*/
 // Set the date we're counting down to
 var countDownDate = new Date("Aug 8, 2017 00:00:00").getTime();

@@ -34,44 +34,36 @@ include('session.php');
 
 <body class="back2">
 <div class="container-fluid toptechdark">
-    <div class="row">
-        <div class="col-md-12 well" id="well2">
-            <h3 class="text-center" id="top"><span
-                        class="glyphicon glyphicon-dashboard"></span>&nbsp;<b><i>S</i></b>A<b><i>S</i></b>
-                <b><i>A</i></b>dmin <b><i>D</i></b>ashBoard</h3>
-        </div>
-        <div class="col-md-12">
-            <nav class="navbar navbar">
-                <div class="container">
-                    <div class="navbar-header">
-                        <a class="navbar-brand" href="AdminSection.php"><span class="glyphicon glyphicon-home"></span>&nbsp;Admin
-                            Operations</a>
-                    </div>
-                    <ul class="nav navbar-nav" id="nav1">
+    <div class="row panelnav">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid dark">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    </button>
+                    <a class="navbar-brand" href="AdminSection.php"><img src="img/BrandingLogo.png"
+                                                                         class="img-responsive"
+                                                                         id="logoimage"></a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-right">
                         <li><a href="RegisterSection.php">Register Student</a></li>
                         <li><a href="ProgressEngine.php">Student Progress</a></li>
                         <li><a href="SearchEngine.php">Search Details</a></li>
-                    </ul>
-                    <ul class="nav navbar-nav pull-right" id="nav1">
-                        <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span>&nbsp;Logout</a></li>
+                        <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
                     </ul>
                 </div>
-            </nav>
-        </div>
-    </div>
 
-
-    <div class="row">
-        <div class="col-md-2"></div>
-        <div class="form-group">
-            <div class="col-md-8 input-group">
-                <span class="input-group-addon lwrite">SEARCH</span>
-                <input type="text" name="search_progress" id="search_progress" class="form-control input-lg lwrite"
-                       placeholder="Search Student Progress By National_ID Number"/>
-                <span class="glyphicon glyphicon-search form-control-feedback lwrite"></span>
+                <div class="form-group mydesign">
+                    <div class="input-group">
+                        <span class="input-group-addon lwrite">SEARCH</span>
+                        <input type="text" name="search_progress" id="search_progress"
+                               class="form-control input-lg lwrite"
+                               placeholder="Search Student Progress By National_ID Number"/>
+                        <span class="glyphicon glyphicon-search form-control-feedback lwrite"></span>
+                    </div>
+                </div>
             </div>
-        </div>
-        <div class="col-md-2"></div>
+        </nav>
     </div>
 
     <div class="row">
