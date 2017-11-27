@@ -1,16 +1,16 @@
 <?php
 
 //connect to database
-include ('DatabaseConnection.php');
+include('DatabaseConnection.php');
 $output = '';
 $sql = "SELECT * From _" . $_POST["search"] . " WHERE National_ID LIKE '%" . $_POST["search"] . "%' ";
 //echo $sql;
 $result = mysqli_query($connection, $sql);
 if ($result == TRUE) {
     if (mysqli_num_rows($result) > 0) {
-        $output .='<h3 align="center"><img src="img/BrandingLogo.png" class="kisiilogo img-responsive" width="80px" height="auto"/></h3>';
-        $output .='<h3 align="center" class="text-info text-uppercase">Student Progress</h3>';
-        $output .='<div class="table-responsive">
+        $output .= '<h3 align="center"><img src="img/BrandingLogo.png" class="kisiilogo img-responsive" width="80px" height="auto"/></h3>';
+        $output .= '<h3 align="center" class="text-info text-uppercase">Student Progress</h3>';
+        $output .= '<div class="table-responsive">
             <table class = "table table-bordered">
             <tr>
             <td>Day</td>
@@ -20,7 +20,7 @@ if ($result == TRUE) {
             </tr>';
 
         while ($row = mysqli_fetch_array($result)) {
-            $output .='
+            $output .= '
         <tr>
                 <td class = "lwrite2">' . $row["ID"] . '</td>
                 <td class = "lwrite2">' . $row["Date"] . '</td>

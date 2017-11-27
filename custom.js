@@ -168,8 +168,7 @@ $(document).ready(function () {
                 method: "post",
                 data: {search: txt},
                 dataType: "text",
-                success: function (data)
-                {
+                success: function (data) {
                     $('#result2').html(data);
                 }
             });
@@ -181,8 +180,7 @@ $(document).ready(function () {
                 method: "post",
                 data: {search: txt},
                 dataType: "text",
-                success: function (data)
-                {
+                success: function (data) {
                     $('#result2').html(data);
                 }
             });
@@ -200,8 +198,7 @@ $(document).ready(function () {
                 method: "post",
                 data: {search: txt},
                 dataType: "text",
-                success: function (data)
-                {
+                success: function (data) {
                     $('#result').html(data);
                 }
             });
@@ -213,8 +210,7 @@ $(document).ready(function () {
                 method: "post",
                 data: {search: txt},
                 dataType: "text",
-                success: function (data)
-                {
+                success: function (data) {
                     $('#result').html(data);
                 }
             });
@@ -242,7 +238,7 @@ var x = setInterval(function () {
 
     // Output the result in an element with id="demo"
     document.getElementById("demo").innerHTML = days + "Days " + hours + "Hrs "
-            + minutes + "Min " + seconds + "Sec";
+        + minutes + "Min " + seconds + "Sec";
 
     // If the count down is over, write some text
     if (distance < 0) {
@@ -260,9 +256,9 @@ var x = setInterval(function () {
 }, 1000);
 /*end of count down*/
 //button for saving
-$(document).ready(function(){
-    $(".btn").click(function(){
-        $(this).button("loading").delay(500).queue(function(){
+$(document).ready(function () {
+    $(".btn").click(function () {
+        $(this).button("loading").delay(500).queue(function () {
             $(this).button("reset");
             $(this).dequeue();
         });

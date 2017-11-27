@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e019ed9-c238-4f71-a7f9-95f550a6f233" name="Default" comment="" />
+    <list default="true" id="9e019ed9-c238-4f71-a7f9-95f550a6f233" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrolltotop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminSection.php" afterPath="$PROJECT_DIR$/AdminSection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AssignedStudent.php" afterPath="$PROJECT_DIR$/AssignedStudent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hub.php" afterPath="$PROJECT_DIR$/Hub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearningE.php" afterPath="$PROJECT_DIR$/LearningE.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProgressEngine.php" afterPath="$PROJECT_DIR$/ProgressEngine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegisterSection.php" afterPath="$PROJECT_DIR$/RegisterSection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SProgressEngine.php" afterPath="$PROJECT_DIR$/SProgressEngine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SearchEngine.php" afterPath="$PROJECT_DIR$/SearchEngine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudentDetails.php" afterPath="$PROJECT_DIR$/StudentDetails.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudentPassReset.php" afterPath="$PROJECT_DIR$/StudentPassReset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudentSection.php" afterPath="$PROJECT_DIR$/StudentSection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperPassReset.php" afterPath="$PROJECT_DIR$/SuperPassReset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SupervisorSection.php" afterPath="$PROJECT_DIR$/SupervisorSection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom.css" afterPath="$PROJECT_DIR$/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,77 +47,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2312">
-              <caret line="136" column="31" lean-forward="false" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
-              <folding>
-                <marker date="1503146234449" expanded="true" signature="19550:19556" ph="©" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SProgressEngine.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SProgressEngine.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="79" column="33" lean-forward="false" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+            <state relative-caret-position="-356">
+              <caret line="119" column="74" lean-forward="false" selection-start-line="119" selection-start-column="74" selection-end-line="119" selection-end-column="74" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Progress.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Progress.php">
+      <file leaf-file-name="ProgressEngine.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProgressEngine.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-              <folding>
-                <marker date="1502460440428" expanded="true" signature="87:178" ph="SELECT * Fro... _" />
-                <marker date="1502460440428" expanded="true" signature="583:797" ph="..." />
-                <marker date="1502460440428" expanded="true" signature="634:797" ph="..." />
-                <marker date="1502460440428" expanded="true" signature="651:797" ph="..." />
-                <marker date="1502460440428" expanded="true" signature="890:1168" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sessionstud.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sessionstud.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <marker date="1498072531699" expanded="true" signature="1346:1416" ph="select ID fr... registration" />
-                <marker date="1498072531699" expanded="true" signature="1496:1594" ph="INSERT INTO " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdminSection.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdminSection.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="443">
+              <caret line="164" column="59" lean-forward="false" selection-start-line="164" selection-start-column="59" selection-end-line="164" selection-end-column="59" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Register.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Register.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="59" />
-              <folding>
-                <marker date="1508262378228" expanded="true" signature="1504:1955" ph="INSERT INTO registration... " />
-                <marker date="1508262378228" expanded="true" signature="2273:2643" ph="CREATE TABLE... ${$assignstudent}" />
-                <marker date="1508262378228" expanded="true" signature="2802:3111" ph="INSERT INTO ${$assignstudent}... " />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -105,18 +70,8 @@
       <file leaf-file-name="RegisterSection.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RegisterSection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="118" column="50" lean-forward="false" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchEngine.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SearchEngine.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="61" column="40" lean-forward="true" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
+            <state relative-caret-position="287">
+              <caret line="242" column="18" lean-forward="true" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -125,26 +80,79 @@
       <file leaf-file-name="StudentDetails.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StudentDetails.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="75" column="61" lean-forward="false" selection-start-line="75" selection-start-column="61" selection-end-line="75" selection-end-column="61" />
+            <state relative-caret-position="1474">
+              <caret line="222" column="51" lean-forward="false" selection-start-line="222" selection-start-column="51" selection-end-line="222" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="session.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/session.php">
+      <file leaf-file-name="StudentSection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentSection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="491">
+              <caret line="159" column="51" lean-forward="false" selection-start-line="159" selection-start-column="51" selection-end-line="159" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperPassReset.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SuperPassReset.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="87" column="51" lean-forward="false" selection-start-line="87" selection-start-column="51" selection-end-line="87" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="supersession.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/supersession.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
               <folding>
-                <marker date="1498049219207" expanded="true" signature="227:282" ph="select usern... login" />
+                <marker date="1498070910292" expanded="true" signature="476:536" ph="select usern... superlogin" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="SupervisorSection.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SupervisorSection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="80" column="74" lean-forward="false" selection-start-line="80" selection-start-column="74" selection-end-line="80" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentPassReset.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentPassReset.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="80" column="44" lean-forward="true" selection-start-line="80" selection-start-column="44" selection-end-line="80" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchEngine.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SearchEngine.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="164" column="59" lean-forward="false" selection-start-line="164" selection-start-column="59" selection-end-line="164" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -155,25 +163,26 @@
         <option value="$PROJECT_DIR$/testcode.php" />
         <option value="$PROJECT_DIR$/Default.html" />
         <option value="$PROJECT_DIR$/AdminResetPass.php" />
-        <option value="$PROJECT_DIR$/StudentPassReset.php" />
-        <option value="$PROJECT_DIR$/SuperPassReset.php" />
-        <option value="$PROJECT_DIR$/SupervisorSection.php" />
-        <option value="$PROJECT_DIR$/LearningE.php" />
-        <option value="$PROJECT_DIR$/StudentDetails.php" />
         <option value="$PROJECT_DIR$/custom.js" />
-        <option value="$PROJECT_DIR$/AdminSection.php" />
-        <option value="$PROJECT_DIR$/RegisterSection.php" />
-        <option value="$PROJECT_DIR$/AssignedStudent.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/Hub.php" />
-        <option value="$PROJECT_DIR$/custom.css" />
         <option value="$PROJECT_DIR$/Progress.php" />
         <option value="$PROJECT_DIR$/fetch.php" />
+        <option value="$PROJECT_DIR$/Register.php" />
+        <option value="$PROJECT_DIR$/custom.css" />
+        <option value="$PROJECT_DIR$/js/jquery.flexslider-min.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/AdminSection.php" />
+        <option value="$PROJECT_DIR$/AssignedStudent.php" />
+        <option value="$PROJECT_DIR$/Hub.php" />
+        <option value="$PROJECT_DIR$/LearningE.php" />
         <option value="$PROJECT_DIR$/ProgressEngine.php" />
+        <option value="$PROJECT_DIR$/RegisterSection.php" />
         <option value="$PROJECT_DIR$/SearchEngine.php" />
         <option value="$PROJECT_DIR$/SProgressEngine.php" />
+        <option value="$PROJECT_DIR$/StudentDetails.php" />
+        <option value="$PROJECT_DIR$/StudentPassReset.php" />
         <option value="$PROJECT_DIR$/StudentSection.php" />
-        <option value="$PROJECT_DIR$/Register.php" />
+        <option value="$PROJECT_DIR$/SuperPassReset.php" />
+        <option value="$PROJECT_DIR$/SupervisorSection.php" />
       </list>
     </option>
   </component>
@@ -190,6 +199,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -205,6 +215,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,7 +230,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -229,6 +239,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="SearchEverywhereHistoryKey" value="project w&#9;ACTION&#9;OpenProjectWindows" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Kisii_County_Attachee\js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -384,11 +399,12 @@
       <workItem from="1508759458331" duration="629000" />
       <workItem from="1508775776202" duration="55000" />
       <workItem from="1509190172243" duration="200000" />
+      <workItem from="1511798101558" duration="839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114888000" />
+    <option name="totallyTimeSpent" value="115727000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,7 +424,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -454,20 +470,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="40" lean-forward="true" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SearchEngine.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fetch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -576,79 +578,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/slogin.php" />
     <entry file="file://$PROJECT_DIR$/testcode" />
-    <entry file="file://$PROJECT_DIR$/supersession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Reports.php" />
     <entry file="file://$PROJECT_DIR$/Default.html" />
     <entry file="file://$PROJECT_DIR$/testcode.php" />
-    <entry file="file://$PROJECT_DIR$/StudentPassReset.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="66" column="100" lean-forward="false" selection-start-line="66" selection-start-column="100" selection-end-line="66" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SuperPassReset.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="66" column="92" lean-forward="false" selection-start-line="66" selection-start-column="92" selection-end-line="66" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SupervisorSection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="37" column="101" lean-forward="false" selection-start-line="37" selection-start-column="101" selection-end-line="37" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AssignedStudent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" column="50" lean-forward="false" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="104" column="22" lean-forward="true" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4335">
-          <caret line="255" column="32" lean-forward="true" selection-start-line="255" selection-start-column="32" selection-end-line="255" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearningE.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="130" column="38" lean-forward="false" selection-start-line="130" selection-start-column="38" selection-end-line="130" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgressEngine.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="101" lean-forward="false" selection-start-line="65" selection-start-column="101" selection-end-line="65" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fetch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
@@ -670,13 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminResetPass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="52" lean-forward="false" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Change.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -684,59 +609,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudentSection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SProgressEngine.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" column="33" lean-forward="false" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sessionstud.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <marker date="1498072531699" expanded="true" signature="1346:1416" ph="select ID fr... registration" />
-            <marker date="1498072531699" expanded="true" signature="1496:1594" ph="INSERT INTO " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminSection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudentDetails.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="61" lean-forward="false" selection-start-line="75" selection-start-column="61" selection-end-line="75" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -751,13 +627,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="412" column="1" lean-forward="false" selection-start-line="412" selection-start-column="1" selection-end-line="412" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.flexslider-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4268">
+          <caret line="127" column="30" lean-forward="true" selection-start-line="127" selection-start-column="30" selection-end-line="127" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.scrolltotop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="112" lean-forward="false" selection-start-line="10" selection-start-column="112" selection-end-line="10" selection-end-column="112" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1508845294443" expanded="true" signature="931:985" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminResetPass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="60" column="52" lean-forward="false" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2312">
-          <caret line="136" column="31" lean-forward="false" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
+        <state relative-caret-position="406">
+          <caret line="393" column="33" lean-forward="true" selection-start-line="393" selection-start-column="33" selection-end-line="395" selection-end-column="51" />
           <folding>
-            <marker date="1503146234449" expanded="true" signature="19550:19556" ph="©" />
+            <marker date="1511798479971" expanded="true" signature="19547:19553" ph="©" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignedStudent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="207" column="41" lean-forward="true" selection-start-line="207" selection-start-column="41" selection-end-line="209" selection-end-column="59" />
+          <folding>
+            <marker date="1511798653565" expanded="true" signature="3211:3225" ph="SELECT * FRO... ${$assignstudent}" />
+            <marker date="1511798653565" expanded="true" signature="3402:3944" ph="..." />
+            <marker date="1511798653565" expanded="true" signature="3431:3913" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1497550877775" expanded="true" signature="377:455" ph="INSERT INTO learning... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <marker date="1498071988563" expanded="true" signature="1163:1253" ph="select id,us... login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="105" column="74" lean-forward="false" selection-start-line="105" selection-start-column="74" selection-end-line="105" selection-end-column="74" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -775,9 +726,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AdminSection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="123" column="41" lean-forward="true" selection-start-line="123" selection-start-column="41" selection-end-line="125" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
+        <state relative-caret-position="585">
           <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="59" />
           <folding>
             <marker date="1508262378228" expanded="true" signature="1504:1955" ph="INSERT INTO registration... " />
@@ -787,18 +746,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RegisterSection.php">
+    <entry file="file://$PROJECT_DIR$/Hub.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="118" column="50" lean-forward="false" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="457">
+          <caret line="190" column="59" lean-forward="false" selection-start-line="190" selection-start-column="59" selection-end-line="190" selection-end-column="59" />
+          <folding>
+            <marker date="1511798653629" expanded="true" signature="3448:3463" ph="SELECT * FRO... " />
+            <marker date="1511798653629" expanded="true" signature="3649:3920" ph="..." />
+            <marker date="1511798653629" expanded="true" signature="3678:3889" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SearchEngine.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="61" column="40" lean-forward="true" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
+        <state relative-caret-position="457">
+          <caret line="164" column="59" lean-forward="false" selection-start-line="164" selection-start-column="59" selection-end-line="164" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessionstud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <marker date="1498072531699" expanded="true" signature="1346:1416" ph="select ID fr... registration" />
+            <marker date="1498072531699" expanded="true" signature="1496:1594" ph="INSERT INTO " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgressEngine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="164" column="59" lean-forward="false" selection-start-line="164" selection-start-column="59" selection-end-line="164" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SProgressEngine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-356">
+          <caret line="119" column="74" lean-forward="false" selection-start-line="119" selection-start-column="74" selection-end-line="119" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegisterSection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="242" column="18" lean-forward="true" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="222" column="51" lean-forward="false" selection-start-line="222" selection-start-column="51" selection-end-line="222" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentPassReset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="80" column="44" lean-forward="true" selection-start-line="80" selection-start-column="44" selection-end-line="80" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentSection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="159" column="51" lean-forward="false" selection-start-line="159" selection-start-column="51" selection-end-line="159" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperPassReset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="87" column="51" lean-forward="false" selection-start-line="87" selection-start-column="51" selection-end-line="87" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supersession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <marker date="1498070910292" expanded="true" signature="476:536" ph="select usern... superlogin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SupervisorSection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="80" column="74" lean-forward="false" selection-start-line="80" selection-start-column="74" selection-end-line="80" selection-end-column="74" />
           <folding />
         </state>
       </provider>

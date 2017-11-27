@@ -1,14 +1,14 @@
 <?php
 
-include ('DatabaseConnection.php');
+include('DatabaseConnection.php');
 session_start(); // Starting Session
 // Storing Session
 $user_check = $_SESSION['login_student'];
 // SQL Query To Fetch Complete Information Of User
 $ses_sql = mysqli_query($connection, "select Student_Name,Registration_Number,Mobile_Number"
-        . ",Course_Of_Study,Year_Of_Study,DateFrom,DateTo,"
-        . "University_Of_Study,Student_Email,Address,Supervisor_Name,"
-        . "Section,Student_Gender,National_ID from registration where Registration_Number='$user_check'");
+    . ",Course_Of_Study,Year_Of_Study,DateFrom,DateTo,"
+    . "University_Of_Study,Student_Email,Address,Supervisor_Name,"
+    . "Section,Student_Gender,National_ID from registration where Registration_Number='$user_check'");
 $row = mysqli_fetch_assoc($ses_sql);
 $login_session = $row['Registration_Number'];
 $Name = $row['Student_Name'];

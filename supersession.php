@@ -1,6 +1,6 @@
 <?php
 
-include ('DatabaseConnection.php');
+include('DatabaseConnection.php');
 // Establishing Connection with Server by passing server_name, user_id and password as a parameter
 //$connection = mysqli_connect("localhost", "TechGuy", "jobvinny");
 // Selecting Database

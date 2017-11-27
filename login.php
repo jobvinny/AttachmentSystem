@@ -1,13 +1,13 @@
 <?php
 
-include ('DatabaseConnection.php');
+include('DatabaseConnection.php');
 session_start(); // Starting Session
 $error = ''; // Variable To Store Error Message
 $errorstud = ''; // Variable To Store Error Message
 $errorsuper = '';
 if (isset($_POST['submit'])) {
     if (empty($_POST['username']) || empty($_POST['password'])) {
-        
+
     } else {
 // Define $username and $password
         $username = $_POST['username'];
@@ -23,7 +23,7 @@ if (isset($_POST['submit'])) {
 // Selecting Database
         //$db = mysqli_select_db($connection, "kisii_county");
 // SQL query to fetch information of registerd users and finds user match.
-        $query = mysqli_query($connection,"select id,username,password from login where password='$password' AND username='$username'");
+        $query = mysqli_query($connection, "select id,username,password from login where password='$password' AND username='$username'");
         $rows = mysqli_num_rows($query);
         if ($rows == 1) {
             $_SESSION['login_user'] = $username; // Initializing Session
@@ -36,7 +36,7 @@ if (isset($_POST['submit'])) {
     }
 } else if (isset($_POST['studentlogin'])) {
     if (empty($_POST['reg_no']) || empty($_POST['passstudent'])) {
-        
+
     } else {
 // Define $username and $password
         $reg_no = $_POST['reg_no'];
@@ -52,7 +52,7 @@ if (isset($_POST['submit'])) {
 // Selecting Database
         // $db = mysqli_select_db($connection, "kisii_county");
 // SQL query to fetch information of registerd users and finds user match.
-        $query = mysqli_query($connection,"select ID,Registration_Number,password from registration where password='$passstudent' AND Registration_Number='$reg_no'");
+        $query = mysqli_query($connection, "select ID,Registration_Number,password from registration where password='$passstudent' AND Registration_Number='$reg_no'");
         $rows = mysqli_num_rows($query);
         if ($rows == 1) {
             $_SESSION['login_student'] = $reg_no; // Initializing Session
@@ -65,7 +65,7 @@ if (isset($_POST['submit'])) {
     }
 } else if (isset($_POST['superlogin'])) {
     if (empty($_POST['superusername']) || empty($_POST['passwordsuper'])) {
-        
+
     } else {
 // Define $username and $password
         $superusername = $_POST['superusername'];
@@ -75,13 +75,13 @@ if (isset($_POST['submit'])) {
 // To protect MySQL injection for Security purpose
         $superusername = stripslashes($superusername);
         $passwordsuper = stripslashes($passwordsuper);
-        $superusername = mysqli_real_escape_string($connection,$superusername);
-        $passwordsuper = mysqli_real_escape_string($connection,$passwordsuper);
+        $superusername = mysqli_real_escape_string($connection, $superusername);
+        $passwordsuper = mysqli_real_escape_string($connection, $passwordsuper);
         $passwordsuper = md5($passwordsuper); //hash password before fetching it
 // Selecting Database
         //$db = mysqli_select_db("kisii_county", $connection);
 // SQL query to fetch information of registerd users and finds user match.
-        $query = mysqli_query($connection,"select id,username,password from superlogin where password='$passwordsuper' AND username='$superusername'");
+        $query = mysqli_query($connection, "select id,username,password from superlogin where password='$passwordsuper' AND username='$superusername'");
         $rows = mysqli_num_rows($query);
         if ($rows == 1) {
             $_SESSION['login_Supervisor'] = $superusername; // Initializing Session

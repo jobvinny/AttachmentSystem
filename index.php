@@ -87,9 +87,9 @@ if (isset($_SESSION['login_user'])) {
                     <?php
                     //date_default_timezone_get('Africa/EAT/Nairobi');
                     //$date = date('Y/m/d h:i:s a',time());
-                    $date = date('d/m/Y',time());
+                    $date = date('d/m/Y', time());
                     echo "<br/>";
-                    echo "<p class='text-center text-success'>DATE</p>".$date;
+                    echo "<p class='text-center text-success'>DATE</p>" . $date;
                     ?>
                     <hr/>
                 </div>
@@ -316,7 +316,7 @@ if (isset($_SESSION['login_user'])) {
             <div class="col-md-4">
                 <h3 class="text-center footer-heading hubdesk">Quick Links</h3>
                 <br/>
-                <h4 class="text-center"><a href="http://www.tecksol.co.ke">
+                <h4 class="text-center"><a href="http://tecksolke.com/">
                         <button class="btn btn-link btn-md btnlinks3">TECKSOL LIMITED</button>
                     </a></h4>
                 <h4 class="text-center"><a href="https://github.com/">
@@ -392,7 +392,8 @@ if (isset($_SESSION['login_user'])) {
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
 <script src="custom.js"></script>
-
+<script src="js/jquery.scrolltotop.js"></script>
+<script src="js/jquery.flexslider-min.js"></script>
 
 </body>
 </html>

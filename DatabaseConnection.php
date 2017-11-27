@@ -8,5 +8,5 @@
  */
 //connect to the database mysql
 //$con = mysqli_connect("localhost", "TechGuy", "jobvinny")or die($con);
-$connection = mysqli_connect("localhost", "TechGuy", "jobvinny","kisii_county")or die($connection);
+$connection = mysqli_connect("localhost", "TechGuy", "jobvinny", "kisii_county") or die($connection);
 //$db = mysqli_connect("localhost", "TechGuy", "jobvinny", "kisii_county")or die($db);

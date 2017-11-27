@@ -82,7 +82,7 @@ include('sessionstud.php');
         <div class="col-md-4">
             <h3 class="text-center footer-heading hubdesk">Quick Links</h3>
             <br/>
-            <h4 class="text-center"><a href="http://www.tecksol.co.ke">
+            <h4 class="text-center"><a href="http://tecksolke.com/">
                     <button class="btn btn-link btn-md btnlinks3">TECKSOL LIMITED</button>
                 </a></h4>
             <h4 class="text-center"><a href="https://github.com/">
@@ -156,5 +156,7 @@ include('sessionstud.php');
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
 <script src="custom.js"></script>
+<script src="js/jquery.scrolltotop.js"></script>
+<script src="js/jquery.flexslider-min.js"></script>
 </body>
 </html>
