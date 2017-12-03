@@ -115,9 +115,9 @@ include('DatabaseConnection.php');
             <p class="text-info java">Sign ......................................... Date
                 ..........................................</p>
             <br/>
-            <p class="text-info java">Student Name .........................................</p>
+            <p class="text-info java">Student Name <u><?php echo $Name; ?></u></p>
             <br/>
-            <p class="text-info java">Student Reg_Number .........................................</p>
+            <p class="text-info java">Student Reg_Number <u><?php echo $login_session; ?></u></p>
             <br/>
             <p class="text-info java">Sign ......................................... Date
                 ..........................................</p>
