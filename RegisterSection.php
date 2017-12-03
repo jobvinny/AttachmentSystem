@@ -177,9 +177,9 @@ include('Register.php');
                                 <option value="ronald rucho">Ronald Oucho</option>
                                 <option value="evaristus miregwa">Evaristus Miregwa</option>
                                 <option value="charles orendo">Charles Orendo</option>
-                                <option value="eng.makori .o. calvin">Eng.Makori .o. Calvin</option>
+                                <option value="calvin makori">Calvin Makori</option>
                                 <option value="dama msembi">Dama Msembi</option>
-                                <option value="yuniah .m. osebe">Yuniah .M. Osebe</option>
+                                <option value="yuniah m osebe">Yuniah M Osebe</option>
                                 <option value="ruth kwamboka isaac">Ruth Kwamboka Isaac</option>
                                 <option value="edwin kimori">Edwin Kimori</option>
                             </select>
