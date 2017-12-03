@@ -25,10 +25,6 @@ include('Change.php'); // Includes login Script
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
-          rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -49,7 +45,7 @@ include('Change.php'); // Includes login Script
                     </div>
                     <div class="form-group input-group">
                         <span class="glyphicon glyphicon-pencil input-group-addon lwrite"></span>
-                        <input type="text" class="form-control lwrite" autocomplete="off"
+                        <input type="text" class="form-control lwrite text-uppercase" autocomplete="off"
                                placeholder="Enter School Reg_No" name="reg_no" required>
                     </div>
                     <div class="form-group input-group">

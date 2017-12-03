@@ -26,10 +26,6 @@ include('Register.php');
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
-          rel="stylesheet" type="text/css">
 </head>
 
 <body class="back2">
@@ -107,7 +103,7 @@ include('Register.php');
                     <div class="col-md-2"></div>
                     <div class="col-md-5">
                         <div class="form-group">
-                            <input type="text" class="form-control lwrite" autocomplete="off"
+                            <input type="text" class="form-control lwrite text-uppercase" autocomplete="off"
                                    placeholder="School Reg_Number" name="reg_no" required>
                         </div>
                         <div class="form-group">
@@ -175,17 +171,17 @@ include('Register.php');
                                    placeholder="Located/Section Place" name="place" required>
                         </div>
                         <div class="form-group">
-                            <select name="supervisor" class="form-control lwrite text-uppercase" required>
+                            <select name="supervisor" class="form-control lwrite text-lowercase" required>
                                 <option value="Assigned Supervisor">Assigned Supervisor</option>
-                                <option value="Brian Barongo">Brian Barongo</option>
-                                <option value="Ronald Oucho">Ronald Oucho</option>
-                                <option value="Evaristus Miregwa">Evaristus Miregwa</option>
-                                <option value="Charles Orendo">Charles Orendo</option>
-                                <option value="Eng Makori o Calvin">Eng.Makori o. Calvin</option>
-                                <option value="Dama Msembi">Dama Msembi</option>
-                                <option value="Yuniah M Osebe">Yuniah .M. Osebe</option>
-                                <option value="Ruth Kwamboka Isaac">Ruth Kwamboka Isaac</option>
-                                <option value="Edwin Kimori">Edwin Kimori</option>
+                                <option value="brian barongo">Brian Barongo</option>
+                                <option value="ronald rucho">Ronald Oucho</option>
+                                <option value="evaristus miregwa">Evaristus Miregwa</option>
+                                <option value="charles orendo">Charles Orendo</option>
+                                <option value="eng makori o calvin">Eng.Makori o. Calvin</option>
+                                <option value="dama msembi">Dama Msembi</option>
+                                <option value="yuniah m osebe">Yuniah .M. Osebe</option>
+                                <option value="ruth kwamboka isaac">Ruth Kwamboka Isaac</option>
+                                <option value="edwin kimori">Edwin Kimori</option>
                             </select>
                         </div>
                         <div class="form-group">

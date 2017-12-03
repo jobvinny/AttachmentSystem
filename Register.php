@@ -68,7 +68,7 @@ if (isset($_POST['register'])) {
         } else {
             mysqli_query($connection, $sql4);
         }
-        echo "<script> alert(' $studname' +' with '+'$reg_no' +' '+'Registration Has Been Successifully Registered');</script>";
+        echo "<script> alert(' $studname' +' with '+'$reg_no' +' '+' Has Been Successifully Registered');</script>";
         $entered = "$studname with Registration $reg_no Has Been Registered";
         //require './RegisterSection.php';
     }

@@ -33,10 +33,6 @@ if (isset($_SESSION['login_user'])) {
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
-          rel="stylesheet" type="text/css">
 
 </head>
 
@@ -180,7 +176,7 @@ if (isset($_SESSION['login_user'])) {
                         <form role="form" class="horizontal-form adminlogin" method="post" action="">
                             <div class="form-group input-group">
                                 <span class="glyphicon glyphicon-pencil input-group-addon lwrite"></span>
-                                <input type="text" class="form-control lwrite" placeholder="Enter School Reg_No"
+                                <input type="text" class="form-control lwrite text-uppercase" placeholder="Enter School Reg_No"
                                        required="required" name="reg_no">
                             </div>
                             <div class="form-group input-group">
@@ -237,7 +233,7 @@ if (isset($_SESSION['login_user'])) {
                         <form role="form" class="horizontal-form adminlogin" method="post" action="">
                             <div class="form-group input-group">
                                 <span class="glyphicon glyphicon-user input-group-addon lwrite"></span>
-                                <input type="text" class="form-control lwrite" placeholder="Username"
+                                <input type="text" class="form-control lwrite text-lowercase" placeholder="Username"
                                        required="required" name="superusername">
                             </div>
                             <div class="form-group input-group">
