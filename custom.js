@@ -38,14 +38,14 @@ $(document).ready(function () {
     $("h3").ready(function () {
         //$(".count").animate({left: '100px'}, "slow");
         $(".tech-club").animate({fontSize: '3em'}, "slow");
-        $(".tech-club").animate({fontSize: '1em'}, "slow");
+        $(".tech-club").animate({fontSize: '2em'}, "slow");
     });
 });
 $(document).ready(function () {
     $("h3").mouseenter(function () {
         //$(".count").animate({left: '100px'}, "slow");
         $(".tech-club").animate({fontSize: '3em'}, "slow");
-        $(".tech-club").animate({fontSize: '1em'}, "slow");
+        $(".tech-club").animate({fontSize: '2em'}, "slow");
     });
 });
 $(document).ready(function () {

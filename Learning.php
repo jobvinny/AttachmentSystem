@@ -1,5 +1,5 @@
 <?php
-include('DatabaseConnection.php');
+require('DatabaseConnection.php');
 session_start(); // Starting Session
 // Storing Session
 $Hstudent = $_SESSION['login_student'];

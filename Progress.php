@@ -1,7 +1,7 @@
 <?php
 
 //connect to database
-include('DatabaseConnection.php');
+require('DatabaseConnection.php');
 $output = '';
 $sql = "SELECT * From _" . $_POST["search"] . " WHERE National_ID LIKE '%" . $_POST["search"] . "%' ";
 //echo $sql;

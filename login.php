@@ -1,6 +1,6 @@
 <?php
 
-include('DatabaseConnection.php');
+require('DatabaseConnection.php');
 session_start(); // Starting Session
 $error = ''; // Variable To Store Error Message
 $errorstud = ''; // Variable To Store Error Message

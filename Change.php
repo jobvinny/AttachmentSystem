@@ -1,6 +1,6 @@
 <?php
 
-include('DatabaseConnection.php');
+require('DatabaseConnection.php');
 $error = ''; // Variable To Store Error Message
 $error3 = ''; // Variable To Store Error Message
 if (isset($_POST['adminreset'])) {

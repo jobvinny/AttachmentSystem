@@ -1,7 +1,7 @@
 <?php
 
 //connect to database
-include('DatabaseConnection.php');
+require('DatabaseConnection.php');
 $erroruni = '';
 $erroyear = '';
 $errorsup = '';

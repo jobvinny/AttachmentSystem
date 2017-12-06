@@ -1,7 +1,7 @@
 <?php
 
 //connect to database
-include('DatabaseConnection.php');
+require('DatabaseConnection.php');
 $output = '';
 $sql = "SELECT ID,Student_Name,Registration_Number,National_ID,Mobile_Number,"
     . "Course_Of_Study,Year_Of_Study,DateFrom,DateTo,University_Of_Study,"
