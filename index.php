@@ -61,20 +61,19 @@ if (isset($_SESSION['login_user'])) {
                         <hr/>
                     </div>
                     <br/>
-<!--                    <a href="https://youtu.be/iZSuW8cZvrk" target="_blank">-->
-<!--                        <button class="btn btn-link btn-lg">*Help*</button>-->
-<!--                    </a>-->
+                    <!--                    <a href="https://youtu.be/iZSuW8cZvrk" target="_blank">-->
+                    <!--                        <button class="btn btn-link btn-lg">*Help*</button>-->
+                    <!--                    </a>-->
                     <?php
                     //date_default_timezone_get('Africa/EAT/Nairobi');
                     //$date = date('Y/m/d h:i:s a',time());
                     $date = date('d/m/Y', time());
                     echo "<br/>";
-                    echo "<p class='text-center text-success'>DATE</p>" . $date;
+                    echo "<h4 class='text-center text-success'>DATE</h4>" . $date;
                     ?>
                     <hr/>
+                    <br/><br/><br/>
                 </div>
-                <br/>
-                <marquee><p>&copy;All Rights Reserved 2017.</p></marquee>
             </div>
             <div class="col-md-2"></div>
         </div>
