@@ -77,7 +77,7 @@ echo '
                 <p class="text-center text-uppercase">Kisii County</p>
                 <p class="text-center">All Rights Reserved 2017</p>
                 <hr/>
-                <p class="text-muted text-center">Developed By <a href="http://tecksolke.com/" class="text-muted">TecksolKE</a></p>
+                <p class="text-muted text-center">Developed By <a href="http://tecksolke.com/" target="_blank" class="text-muted">TecksolKE</a></p>
             </div>
             <div class="col-md-3"></div>
         </div>';
