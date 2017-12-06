@@ -4,7 +4,7 @@ echo '
             <br/>
             <h2 class="text-success text-center well well-sm">GET STARTED</h2>
             <br/>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <h3 class="text-center footer-heading hubdesk">Quick Links</h3>
                 <br/>
                 <h4 class="text-center"><a href="http://tecksolke.com/">
@@ -23,12 +23,9 @@ echo '
                         <button class="btn btn-link btn-md btnlinks3">KENYA REVENUE</button>
                     </a></h4>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <h3 class="text-center hubmob footer-heading">Contact Us</h3>
                 <br>
-                <h4 class="text-center"><a href="http://www.kisii.go.ke/">
-                        <button class="btn btn-link btn-md btnlinks">KISII COUNTY</button>
-                    </a></h4>
                 <h4 class="text-center">
                     <button type="button" class="btn btn-dark btn-md btnlinks" data-toggle="collapse"
                             data-target="#demo4">CONTACTS
@@ -40,11 +37,18 @@ echo '
                 <h4 class="text-center"><a href="mailto:info@kisii.go">
                         <button class="btn btn-link btn-md btnlinks">EMAIL US</button>
                     </a></h4>
+            </div>
+            <div class="col-md-3">
+                <h3 class="text-center hubmob footer-heading">How It Works</h3>
+                <br>
+                <h4 class="text-center"><a href="http://www.kisii.go.ke/">
+                        <button class="btn btn-link btn-md btnlinks">KISII COUNTY</button>
+                    </a></h4>
                      <h4 class="text-center"><a href="https://youtu.be/iZSuW8cZvrk" target="_blank">
                         <button class="btn btn-link btn-md btnlinks">HELP</button>
                     </a></h4>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <h3 class="text-center hubweb footer-heading">Social Media</h3>
                 <br/>
                 <h4 class="text-center"><a
