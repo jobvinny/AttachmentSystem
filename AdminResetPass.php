@@ -21,6 +21,7 @@ require('Change.php'); // Includes login Script
             <div class="col-md-6">
                 <img src="img/BrandingLogo.png">
                 <h3>Admin Password Reset</h3>
+                <br/>
                 <p class="text-info java2">Ones The Password Is Changed You Will Be Redirected To The Login Page</p>
                 <p class="text-center text-danger java2"><b>(AUTOMATICALLY)</b></p>
                 <form role="form" class="horizontal-form" method="post" action="">
@@ -54,6 +55,7 @@ require('Change.php'); // Includes login Script
                     <div class="form-group">
                         <a href="index.php" class="form-control btn btn-md btn-link bcolored">BACK</a>
                     </div>
+                    <br/><br/>
                 </form>
             </div>
             <div class="col-md-3"></div>

@@ -430,7 +430,7 @@ a:hover{
 /*nav contents*/
 .navbar-default .navbar-header .navbar-brand {
     color: bisque;
-    height: 120px;
+    height: 110px;
     border: none;
 }
 
@@ -482,7 +482,7 @@ a:hover{
 
 #logoimage {
     max-width: 100px;
-    max-height: 100px;
+    max-height: 80px;
 }
 
 .panelnav {

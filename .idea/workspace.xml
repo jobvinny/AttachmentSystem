@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e019ed9-c238-4f71-a7f9-95f550a6f233" name="Default" comment="" />
+    <list default="true" id="9e019ed9-c238-4f71-a7f9-95f550a6f233" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminResetPass.php" afterPath="$PROJECT_DIR$/AdminResetPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudentPassReset.php" afterPath="$PROJECT_DIR$/StudentPassReset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperPassReset.php" afterPath="$PROJECT_DIR$/SuperPassReset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom.css" afterPath="$PROJECT_DIR$/custom.css" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,65 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5644">
-              <caret line="332" column="14" lean-forward="false" selection-start-line="332" selection-start-column="14" selection-end-line="332" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Register.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Register.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="46" lean-forward="false" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
-              <folding>
-                <marker date="1512536107057" expanded="true" signature="1504:1955" ph="INSERT INTO registration... " />
-                <marker date="1512536107057" expanded="true" signature="2273:2643" ph="CREATE TABLE... ${$assignstudent}" />
-                <marker date="1512536107057" expanded="true" signature="2802:3111" ph="INSERT INTO ${$assignstudent}... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentSection.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudentSection.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuperPassReset.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SuperPassReset.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SupervisorSection.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SupervisorSection.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="161">
+              <caret line="432" column="14" lean-forward="false" selection-start-line="432" selection-start-column="14" selection-end-line="432" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -94,76 +46,28 @@
       <file leaf-file-name="AdminResetPass.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdminResetPass.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getstarted.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/getstarted.php">
+      <file leaf-file-name="SuperPassReset.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SuperPassReset.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="76" column="70" lean-forward="true" selection-start-line="76" selection-start-column="70" selection-end-line="76" selection-end-column="70" />
-              <folding>
-                <marker date="1512540311474" expanded="true" signature="12:4576" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="55:4575" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="205:1321" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="348:505" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="380:500" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="546:693" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="576:688" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="734:895" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="771:890" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="936:1093" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="974:1088" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="1134:1302" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="1179:1297" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="1356:2064" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="1496:1708" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="1599:1686" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="1758:1856" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="1897:2045" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="1928:2040" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="2099:2629" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="2241:2396" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="2275:2391" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="2442:2610" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="2497:2605" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="2664:3919" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="2807:3042" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="2810:3037" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3083:3231" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3114:3226" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3272:3509" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3275:3504" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3550:3706" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3586:3701" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3747:3900" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3782:3895" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="3995:4519" ph="..." />
-                <marker date="1512540311474" expanded="true" signature="4172:4178" ph="©" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="74" column="35" lean-forward="true" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+            <state relative-caret-position="313">
+              <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myheader.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myheader.php">
+      <file leaf-file-name="StudentPassReset.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentPassReset.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="113">
+              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -200,7 +104,6 @@
         <option value="$PROJECT_DIR$/session.php" />
         <option value="$PROJECT_DIR$/sessionstud.php" />
         <option value="$PROJECT_DIR$/supersession.php" />
-        <option value="$PROJECT_DIR$/AdminResetPass.php" />
         <option value="$PROJECT_DIR$/AdminSection.php" />
         <option value="$PROJECT_DIR$/AssignedStudent.php" />
         <option value="$PROJECT_DIR$/Hub.php" />
@@ -210,15 +113,16 @@
         <option value="$PROJECT_DIR$/SearchEngine.php" />
         <option value="$PROJECT_DIR$/SProgressEngine.php" />
         <option value="$PROJECT_DIR$/StudentDetails.php" />
-        <option value="$PROJECT_DIR$/StudentPassReset.php" />
         <option value="$PROJECT_DIR$/StudentSection.php" />
-        <option value="$PROJECT_DIR$/SuperPassReset.php" />
         <option value="$PROJECT_DIR$/SupervisorSection.php" />
         <option value="$PROJECT_DIR$/myheader.php" />
         <option value="$PROJECT_DIR$/custom.js" />
-        <option value="$PROJECT_DIR$/custom.css" />
         <option value="$PROJECT_DIR$/getstarted.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/StudentPassReset.php" />
+        <option value="$PROJECT_DIR$/SuperPassReset.php" />
+        <option value="$PROJECT_DIR$/AdminResetPass.php" />
+        <option value="$PROJECT_DIR$/custom.css" />
       </list>
     </option>
   </component>
@@ -232,7 +136,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1370" />
     <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -251,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -267,6 +170,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -446,11 +350,12 @@
       <workItem from="1512539301548" duration="859000" />
       <workItem from="1512540281620" duration="71000" />
       <workItem from="1512540390292" duration="422000" />
+      <workItem from="1513181974148" duration="1090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131515000" />
+    <option name="totallyTimeSpent" value="132605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -462,19 +367,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1370" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14787701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14771049" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -812,22 +717,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudentPassReset.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StudentSection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SuperPassReset.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
@@ -847,14 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminResetPass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -879,57 +761,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5644">
-          <caret line="332" column="14" lean-forward="false" selection-start-line="332" selection-start-column="14" selection-end-line="332" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/getstarted.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="1292">
           <caret line="76" column="70" lean-forward="true" selection-start-line="76" selection-start-column="70" selection-end-line="76" selection-end-column="70" />
-          <folding>
-            <marker date="1512540311474" expanded="true" signature="12:4576" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="55:4575" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="205:1321" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="348:505" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="380:500" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="546:693" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="576:688" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="734:895" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="771:890" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="936:1093" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="974:1088" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="1134:1302" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="1179:1297" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="1356:2064" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="1496:1708" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="1599:1686" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="1758:1856" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="1897:2045" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="1928:2040" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="2099:2629" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="2241:2396" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="2275:2391" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="2442:2610" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="2497:2605" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="2664:3919" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="2807:3042" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="2810:3037" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3083:3231" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3114:3226" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3272:3509" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3275:3504" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3550:3706" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3586:3701" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3747:3900" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3782:3895" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="3995:4519" ph="..." />
-            <marker date="1512540311474" expanded="true" signature="4172:4178" ph="©" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -937,6 +773,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="74" column="35" lean-forward="true" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentPassReset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperPassReset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminResetPass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="432" column="14" lean-forward="false" selection-start-line="432" selection-start-column="14" selection-end-line="432" selection-end-column="14" />
           <folding />
         </state>
       </provider>
