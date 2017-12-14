@@ -55,16 +55,10 @@ require('Change.php'); // Includes login Script
                     <div class="form-group">
                         <a href="index.php" class="form-control btn btn-md btn-link bcolored">BACK</a>
                     </div>
-                    <br/><br/>
                 </form>
+                <br/><br/>
             </div>
             <div class="col-md-3"></div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-12">
-                <marquee><p>&copy;All Rights Reserved 2017.</p></marquee>
-            </div>
         </div>
     </div>
     </div>

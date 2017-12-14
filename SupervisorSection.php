@@ -1,5 +1,5 @@
 <?php
-require ('supersession.php');
+require('supersession.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -48,7 +48,7 @@ require ('supersession.php');
                     <span class="icon gfx-star-3 colorred"></span>
                     <span class="icon gfx-star-3 colorgreen"></span>
                 </h2>
-                <h4 class="text-success">WELCOME BACK <u><i> <?php echo $login_session; ?></i></u><span
+                <h4 class="text-uppercase">WELCOME BACK <?php echo $login_session; ?><span
                             class="glyphicon glyphicon-ok"></span></h4>
             </div>
             <div class="col-md-4"></div>
