@@ -38,12 +38,12 @@ if (isset($_SESSION['login_user'])) {
                 <div class="col-md-2">
                 </div>
                 <div class="col-md-8">
-                    <h4 class="text-center text-info count">Election Count Down</h4>
+                    <h4 class="text-center text-muted count">HELLO WORLD</h4>
                     <h4 id="demo" class="text-center count"></h4>
-                    <h3 class="tech-club text-center text-info">WELCOME</h3>
+                    <h3 class="tech-club text-center text-primary">WELCOME</h3>
                     <h1 class="icon gfx-like tech-club"></h1>
-                    <button type="button" class="btn btn-dark btn-md bcolored1" data-toggle="collapse"
-                            data-target="#demo2"><span class="glyphicon glyphicon-log-in"></span>&nbsp;LOGIN SECTION
+                    <button type="button" class="btn btn-dark btn-lg bcolored1" data-toggle="collapse"
+                            data-target="#demo2">&nbsp;GET STARTED
                     </button>
                     <div id="demo2" class="collapse">
                         <hr/>
